@@ -1,1 +1,1 @@
-# -odewars-may-2022-
+# -codewars-may-2022-
